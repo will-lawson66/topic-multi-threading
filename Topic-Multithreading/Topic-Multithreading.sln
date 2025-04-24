@@ -9,10 +9,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module 1", "Module 1", "{02
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Class Overview", "Class Overview", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
-	ProjectSection(SolutionItems) = preProject
-		Class Overview\Overview - From hardware to C# implementation.md = Class Overview\Overview - From hardware to C# implementation.md
-		Class Overview\Syllabus.md = Class Overview\Syllabus.md
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module 2", "Module 2", "{8283225A-E719-44EA-BFA8-57B609D8D4C8}"
 	ProjectSection(SolutionItems) = preProject
@@ -29,24 +25,16 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module 4", "Module 4", "{60
 		Module 4\Module 4 - Robotic control patterns.md = Module 4\Module 4 - Robotic control patterns.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module 1 Quiz Solutions", "Module 1\Module 1 Quiz Solutions\Module 1 Quiz Solutions.csproj", "{79E545B8-2D86-9946-5876-3439BE55131D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "References", "References", "{DD8A2498-6618-4CCC-90E9-36F493167F3B}"
+	ProjectSection(SolutionItems) = preProject
+		Documents\Glossary.md = Documents\Glossary.md
+		Documents\Reading list.md = Documents\Reading list.md
+		Documents\Synchronization primitives decision guidelines.md = Documents\Synchronization primitives decision guidelines.md
+	EndProjectSection
 EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{79E545B8-2D86-9946-5876-3439BE55131D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{79E545B8-2D86-9946-5876-3439BE55131D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{79E545B8-2D86-9946-5876-3439BE55131D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{79E545B8-2D86-9946-5876-3439BE55131D}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{79E545B8-2D86-9946-5876-3439BE55131D} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9A0A3A1C-572A-43A1-9110-FD9701EFA48F}
