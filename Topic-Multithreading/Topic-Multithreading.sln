@@ -15,8 +15,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Class Overview", "Class Ove
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module 2", "Module 2", "{8283225A-E719-44EA-BFA8-57B609D8D4C8}"
+	ProjectSection(SolutionItems) = preProject
+		Module 2\Module 2 - Synchronization mechanisms.md = Module 2\Module 2 - Synchronization mechanisms.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module 3", "Module 3", "{0DAA3421-B9C9-4D63-96D8-1097FC040ECD}"
+	ProjectSection(SolutionItems) = preProject
+		Module 3\Module 3 - Focus applications for robotics.md = Module 3\Module 3 - Focus applications for robotics.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module 4", "Module 4", "{605F213D-F5FC-41C3-845C-60F0C338A7C9}"
 EndProject
