@@ -40,6 +40,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "References", "References", 
 		Documents\Synchronization primitives decision guidelines.md = Documents\Synchronization primitives decision guidelines.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solutions", "Solutions", "{3487F1BB-1755-4AF5-9919-4F3E947A3115}"
+	ProjectSection(SolutionItems) = preProject
+		Module 1\Module 1 - Quiz\Quiz solutions - Module 1.md = Module 1\Module 1 - Quiz\Quiz solutions - Module 1.md
+		Module 2\Module 2 - Quiz\Quiz solutions - Module 2.md = Module 2\Module 2 - Quiz\Quiz solutions - Module 2.md
+		Module 3\Module 3 - Quiz\Quiz solutions - Module 3.md = Module 3\Module 3 - Quiz\Quiz solutions - Module 3.md
+		Module 4\Module 4 - Quiz\Quiz solutions - Module 4.md = Module 4\Module 4 - Quiz\Quiz solutions - Module 4.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
